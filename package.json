@@ -1,0 +1,12 @@
+{
+  "name": "mongoTest",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+	"mongodb": ">= 0.1"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "index.js"
+}
